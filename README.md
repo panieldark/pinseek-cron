@@ -1,3 +1,10 @@
+# Pinseek production cron
+
+This fork is used only for Pinseek's protected five-minute server sweep. Its
+endpoint and credential are stored as GitHub Actions secrets.
+
+## Upstream project
+
 # Social Media Automation
 
 AI-powered social media automation system with viral content analysis and multi-platform scheduling.
